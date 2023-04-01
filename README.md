@@ -22,10 +22,6 @@
 - :octocat: Hobbies: Anime, Manga, Gaming, Novel & Food maybe........ <br><br>
 
 <h2></h2><br>
-<br>
-<br>
-<br>
-<br>
 
 <p align="center"> 
   <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
