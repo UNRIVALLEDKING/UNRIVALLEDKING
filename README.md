@@ -6,7 +6,8 @@
 </p> <br>
 
 <a href="https://app.daily.dev/UNRIVALLEDKING"><img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/></a>
-<br><br>
+
+<div height="100px" width="100%"></div>
 
 <h2 align="center">Student & Technical Co-Lead at GDG Patna</h2>
 <h2 align="center"> Self-taught, Curious, and <img src="assests/flamey.gif" width="30"/>Passionate<img src="assests/flamey.gif" width="30"/> about Coding!</h2>
