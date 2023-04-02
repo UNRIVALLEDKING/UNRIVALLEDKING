@@ -5,8 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=UNRIVALLEDKING&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/UNRIVALLEDKING"><img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/></a>
-
 <h2 align="center">Student & Technical Co-Lead at GDG Patna</h2>
 <h2 align="center"> Self-taught, Curious, and <img src="assests/flamey.gif" width="30"/>Passionate<img src="assests/flamey.gif" width="30"/> about Coding!</h2>
 
@@ -20,7 +18,7 @@
 - ☕ Interest: Coding, Anime, Manga, Gaming, Coffee. <br><br>
 
 - :octocat: Hobbies: Anime, Manga, Gaming, Novel & Food maybe........ <br><br>
-
+<a href="https://app.daily.dev/UNRIVALLEDKING"><img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/></a>
 <h2></h2><br>
 
 <p align="center"> 
