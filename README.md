@@ -5,9 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=UNRIVALLEDKING&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/UNRIVALLEDKING"><img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/></a>
-
-<div height="100px" width="100%"></div>
+<img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/>
 
 <h2 align="center">Student & Technical Co-Lead at GDG Patna</h2>
 <h2 align="center"> Self-taught, Curious, and <img src="assests/flamey.gif" width="30"/>Passionate<img src="assests/flamey.gif" width="30"/> about Coding!</h2>
