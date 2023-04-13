@@ -45,7 +45,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa" alt="Most used languages" /> <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)](https://git.io/streak-stats)
-<img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=450&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact" alt="Most used languages" />
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=450&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact" alt="Most used languages" />
 <br>
 
    <p>
