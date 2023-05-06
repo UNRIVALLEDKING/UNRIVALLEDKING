@@ -19,7 +19,7 @@
 
 - ☕ Interest: Coding, Anime, Manga, Gaming, Coffee. <br><br>
 
-- :octocat: Hobbies: Anime, Manga, Gaming, Novel & Food maybe........ <br><br>
+- :octocat: Hobbies: Anime, Manga, Gaming, Novel & Travelling 🧳✈🚢 <br><br>
 
 <h2></h2><br>
 
