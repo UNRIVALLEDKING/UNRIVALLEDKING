@@ -75,6 +75,5 @@
   </a>
   <a><a href="https://discordapp.com/users/688632317509763072" target="_blank">
     <img align="center" alt="Discord" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>UNRIVALLEDKING#6366</span>
       </a>
 </p>
