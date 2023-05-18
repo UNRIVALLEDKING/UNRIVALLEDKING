@@ -43,20 +43,24 @@
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=UNRIVALLEDKING&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa" alt="Most used languages" />](https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa) <br>
+<img src="https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa" alt="Most used languages" /> <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)](https://git.io/streak-stats)
+<!-- <img src="https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)" alt="UNRIVALLEDKING" align="middle"><br> -->
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=450&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact" alt="Most used languages" />](https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=450&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA" alt="UNRIVALLEDKING"/>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)](https://git.io/streak-stats) -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact" alt="UNRIVALLEDKING" />
 <br>
 
    <p>
     <a href="https://www.codewars.com/users/UNRIVALLEDKING">
-      <img src="https://github.r2v.ch/codewars?user=UNRIVALLEDKING&top_languages=true&theme=midnight_blue" width="500" alt="codewar stats" />
+      <img src="https://github.r2v.ch/codewars?user=UNRIVALLEDKING&top_languages=true&theme=midnight_blue" width="500" alt="UNRIVALLEDKING" />
     </a>
   </p>
 
-[![UNRIVALLEDKING's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/UNRIVALLEDKING)
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" alt="UNRIVALLEDKING"/>
 
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
