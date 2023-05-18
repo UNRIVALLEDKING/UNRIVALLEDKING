@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=24&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+UNRIVALLEDKING;Welcome+to+my+Profile!" align="middle" alt="Hey, I'm UNRIVALLEDKING Welcome to my Profile! animated typed out"></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+UNRIVALLEDKING;Welcome+to+my+profile%2C;where+you'll+find+a+glimpse+into+my+world.;Feel+free+to+explore+and+get+to+know+me+better." align="middle" alt="Hey, I'm UNRIVALLEDKING Welcome to my Profile! animated typed out"></p>
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
