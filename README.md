@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=45&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+UNRIVALLEDKING;+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm UNRIVALLEDKING Welcome to my Profile! animated typed out">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=24&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+UNRIVALLEDKING;Welcome+to+my+Profile!" align="middle" alt="Hey, I'm UNRIVALLEDKING Welcome to my Profile! animated typed out"></p>
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
@@ -45,7 +46,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa" alt="Most used languages" />](https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa) <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)](https://git.io/streak-stats)
-    
+
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=450&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact" alt="Most used languages" />](https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=450&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
 <br>
 
