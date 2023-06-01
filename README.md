@@ -8,7 +8,7 @@
 
 <img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/>
 
-<h2 align="center">Student & Technical Co-Lead at GDG Patna</h2>
+<h2 align="center">Student & Technical Lead at GDG Patna</h2>
 <h2 align="center"> Self-taught, Curious, and <img src="assests/flamey.gif" width="30"/>Passionate<img src="assests/flamey.gif" width="30"/> about Coding!</h2>
 
 - 🌳 I’m currently learning NodeJs, Express & MongoDB! <br>
