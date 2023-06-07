@@ -60,7 +60,7 @@
     </a>
   </p>
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" alt="UNRIVALLEDKING"/>
+  <img src="https://github-readme-activity-graph.vercel.app//graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" alt="UNRIVALLEDKING"/>
 
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
