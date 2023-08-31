@@ -66,7 +66,7 @@
 ![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&width=1000&unique=true)
 
 <p align="center">
-<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" width=1000 />
 </p>
 
 <img src="assests/borderseperator.gif">
