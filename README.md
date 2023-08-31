@@ -62,15 +62,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app//graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" alt="UNRIVALLEDKING"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UNRIVALLEDKING/UNRIVALLEDKING/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UNRIVALLEDKING/UNRIVALLEDKING/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UNRIVALLEDKING/UNRIVALLEDKING/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/unrivalledking/count.svg?"  />
-</div>
+![UNRIVALLEDKING github profile views](https://count.getloli.com/get/@unrivalledking?theme=rule34)
 
 <!-- ![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&count=10) -->
 
