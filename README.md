@@ -47,12 +47,11 @@
 
 <!-- <img src="https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)" alt="UNRIVALLEDKING" align="middle"><br> -->
 
-<img src="https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA" alt="UNRIVALLEDKING"/>
+![UNRIVALLEDKING github contribution streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)](https://git.io/streak-stats) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact" alt="UNRIVALLEDKING" />
-<br>
+![UNRIVALLEDKING most used programming language](https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
 
    <p>
     <a href="https://www.codewars.com/users/UNRIVALLEDKING">
@@ -60,7 +59,7 @@
     </a>
   </p>
 
-  <img src="https://github-readme-activity-graph.vercel.app//graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" alt="UNRIVALLEDKING"/>
+![UNRIVALLEDKING github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
 
 <!-- ![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&count=10) -->
 
