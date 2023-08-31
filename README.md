@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=UNRIVALLEDKING&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING'S Dev Card"/>
+<img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING - Aditya Kumar - Technical Lead at GDG Patna"/>
 
 <h2 align="center">Technical Lead at GDG Patna || Software Development Lead</h2>
 <h2 align="center"> Self-taught, Curious, and <img src="assests/flamey.gif" width="30"/>Passionate<img src="assests/flamey.gif" width="30"/> about Coding!</h2>
