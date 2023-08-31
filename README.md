@@ -62,8 +62,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app//graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" alt="UNRIVALLEDKING"/>
 
-![UNRIVALLEDKING github profile views](https://count.getloli.com/get/@unrivalledking?theme=rule34)
-
 <!-- ![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&count=10) -->
 
 ![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&width=1000&unique=true)
@@ -73,6 +71,9 @@
 </p>
 
 <img src="assests/borderseperator.gif">
+
+![UNRIVALLEDKING github profile views](https://count.getloli.com/get/@unrivalledking?theme=rule34)
+
   <h3 align="center">Connect With Me</h3>
 <p align="center" >
   <a href="https://www.linkedin.com/in/unrivalledking/" target="_blank">
